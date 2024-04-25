@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @afrid.md.
+- 😄 Pronouns: He/Him.
+- 👀 I’m interested in building things for the web.
+- 🌱 I’m currently learning MERN Stack.
+- 💞️ I’m looking for a ReactJS developer | NodeJS developer role.
+- 📫 How to reach me afrid.md200@gmail.com
