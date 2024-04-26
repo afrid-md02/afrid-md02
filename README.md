@@ -10,4 +10,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afrid-md02)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=afrid-md02)](https://github.com/ryo-ma/github-profile-trophy)
+
 
