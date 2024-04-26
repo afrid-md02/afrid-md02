@@ -1,4 +1,4 @@
-![Github header with waves(red)](https://github.com/afrid-md02/afrid-md02/assets/165661014/79eb67cb-9560-4347-a91a-f34fb4e81150)
+![Github header with waves(red)](https://github.com/afrid-md02/afrid-md02/assets/165661014/c6b0eaca-5753-4aad-a4ee-97e6d9b6c84f)
 
 <ul>
   <li>😄 Pronouns: He/Him.</li>
